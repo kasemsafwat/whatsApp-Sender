@@ -1,0 +1,2 @@
+PyQt6==6.6.1
+pywhatkit==5.4 
